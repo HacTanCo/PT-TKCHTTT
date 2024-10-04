@@ -34613,7 +34613,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSNn+z3XTXcIU="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "Ex Quản Lý Bán Hàng",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
@@ -50700,7 +50700,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSNn+z3XTXcIU="
 					},
-					"name": "UseCaseDiagram2",
+					"name": "Quản Lý Bán Hàng",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
