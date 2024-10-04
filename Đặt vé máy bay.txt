@@ -1,0 +1,4 @@
+- Khách hàng : đăng ký,đăng nhập,chọn điểm cần tới,chọn giờ bay,chọn loại vé,chọn chỗ ngồi,đặt vé,thanh toán và thanh toán online,gửi khiếu nại,thay đổi thông tin đặt vé,xem lịch sử đặt vé,xem khuyến mãi,đánh giá,chọn số kg hành lý,đổi vé
+- Nhân viên kinh doanh : đăng nhập,xử lý đặt vé,xuất vé máy bay,quản lý chỗ ngồi từng khoang,quản lý khách hàng,lập hóa đơn
+- Nhân viên chăm sóc khách hàng : đăng nhập,giải quyết khiếu nại,hỗ trợ khách hàng
+- Quản trị hệ thống : đăng nhập,sao lưu dữ liệu, phục hồi dữ liệu, quản lý tài khoản
